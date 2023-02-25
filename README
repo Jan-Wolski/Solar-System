@@ -1,0 +1,3 @@
+Group project for university, simulating the gravitational movement of celestial bodies (original at https://github.com/pkakol00/Sollaris).
+
+My (mysliwy112) part involved conneting to NASA's Horizons api to download current position of planets to visualize and simulate present state of our solar system.
